@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(64, 221, 208);
+}
+
+h1{
+    background-color: rgb(182, 243, 103);
+    font-style: arial;
+    font-size: 2rem;
+    display:flex;
+    justify-content: center;
+}
+
+#ABOUTME{
+    background-color: beige;    
+    font-style: Times;
+    font-size: 1.5rem;
+    padding : 20px;
+    margin-top: 10px;
+    margin-right: 20%;
+    margin-left:20%;
+    border-style: solid;
+    box-shadow: 5px 10px grey;
+}
+
+#Education{
+    background-color: wheat;
+    font-style: arial;
+    font-size:1.5rem;
+}
